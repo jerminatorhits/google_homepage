@@ -1,3 +1,6 @@
+#header {
+  height: 60px;
+}
 ul {
 	list-style-type: none;
 	margin: 0;
@@ -21,13 +24,17 @@ li a {
 }
 .center {
   display: block;
-  margin: 200px auto 20px auto;
+  margin: 100px auto 0px auto;
 }
 #logo {
   
 }
 #search {
+  margin: 0 auto;
 }
 form {
-  margin: 0 50%;
+  margin: 0 40%;
+}
+#spacer {
+  height: 150px;
 }
